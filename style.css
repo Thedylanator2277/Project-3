@@ -48,3 +48,12 @@ div {
 	height: 150px;
 	margin: auto;
 }
+#map {
+	background-color: green;
+	border-radius: 25px;
+	padding: 20px;
+	width: 600px;
+	height: 150px;
+	margin: auto;
+	
+}
